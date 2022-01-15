@@ -1,2 +1,2 @@
-# Site
+# Website
 In progress...
